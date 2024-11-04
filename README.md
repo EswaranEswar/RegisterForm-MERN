@@ -46,28 +46,28 @@ Make sure you have the following installed:
 ## 1.Clone the Repository
 
 ```bash
-`git clone https://github.com/EswaranEswar/RegisterForm-MERN`
-`cd RegisterForm-MERN`
+git clone https://github.com/EswaranEswar/RegisterForm-MERN
+cd RegisterForm-MERN
 
 ## 2.Install dependencies for the client
 
-`cd client`
-`npm install`
+cd client
+npm install
 
 ## 3.Install dependencies for the server:
 
-`cd server`
-`npm install`
+cd server
+npm install
 
 ## Usage
 
 ## 1.Server side:
-`cd server`
-`node index.js`
+cd server
+node index.js
 
 ## 2.Start the client in a new terminal:
-`cd client`
-`npm start`
+cd client
+npm start
 
 ## API Endpoints:
 
