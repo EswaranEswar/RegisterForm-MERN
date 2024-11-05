@@ -65,7 +65,7 @@ export const Form = () => {
             <hr className='form-split-line' />
             <span>or</span>
           </div>
-          <a href='/' className='anchor'>Forgot Password</a>
+          <p className='signin'>Already have an account?<a href='/' className='anchor'> Login</a></p>
         </div>
       </form>
     </div>
